@@ -3,5 +3,14 @@
 }
 
 body {
+  margin: 0;
   background: #dadada;
+}
+
+.main-header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  background: #9c9c9c;
 }
